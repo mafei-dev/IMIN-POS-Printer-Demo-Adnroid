@@ -1,0 +1,2 @@
+rootProject.name='IMIN POS  Printer Demo'
+include ':app'
